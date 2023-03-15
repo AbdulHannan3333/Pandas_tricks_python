@@ -1,5 +1,4 @@
-# Pandas_tricks_python
-Pandas trip and tricks in python
+
 # Pandas Trips and Trick
 ## how to import library
 ```python 
